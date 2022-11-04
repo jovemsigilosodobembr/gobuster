@@ -818,9 +818,9 @@ http://localhost.s3.amazonaws.com/
 
 <details>
   <summary><h3>Termux:</h3></summary>
-  
-  
- ``` 
+  <details>
+
+```
 termux-setup-storage 
 termux-change-repo 
 apt update -y
