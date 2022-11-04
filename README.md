@@ -23,7 +23,7 @@ Gobuster é uma ferramenta usada para força bruta:
 <details>
   <summary><h3>Termux:</h3></summary>
 
-```text
+```
 termux-setup-storage 
 termux-change-repo 
 apt update -y
@@ -34,13 +34,15 @@ mv gobuster /data/data/com.termux/files/usr/lib/go/src/
 go mod init gobuster 
 go get github.com/OJ/gobuster/v3/cli/cmd 
 go run gobuster
- ```text
+ ```
+ <details>
+
    
   
   <details>
   <summary><h3>Debian:</h3></summary>
           
- ```text
+ ```
 apt-get update -y
 apt-get upgrade -y 
 apt-get install golang git -y 
@@ -50,7 +52,9 @@ go mod init gobuster
 go get github.com/OJ/gobuster/v3/cli/cmd 
 go run gobuster
 ```    
-   
+   <details>
+
+    
    <details>
   <summary><h3>Ubuntu:</h3></summary>
 
