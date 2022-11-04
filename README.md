@@ -91,7 +91,7 @@ gobuster s3 -w bucket-names.txt
 
 <details>
   <summary><h3>Termux:</h3></summary>
-  <details>
+ 
 
 ```text
 termux-setup-storage 
