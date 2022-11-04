@@ -817,5 +817,19 @@ http://localhost.s3.amazonaws.com/
 
 
 <details>
-  <summary><h3>Instalação no termux</h3></summary>
-```
+  <summary><h3>Termux:</h3></summary>
+  
+  
+ ``` 
+termux-setup-storage 
+termux-change-repo 
+apt update -y
+apt upgrade -y 
+pkg install golang git -y 
+git clone https://github.com/OJ/gobuster 
+mv gobuster /data/data/com.termux/files/usr/lib/go/src/ 
+go mod init gobuster 
+go get github.com/OJ/gobuster/v3/cli/cmd 
+ go run gobuster
+ ```
+
