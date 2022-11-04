@@ -35,10 +35,7 @@ go mod init gobuster
 go get github.com/OJ/gobuster/v3/cli/cmd 
 go run gobuster
  ```
- <details>
-
    
-  
   <details>
   <summary><h3>Debian:</h3></summary>
           
@@ -52,15 +49,22 @@ go mod init gobuster
 go get github.com/OJ/gobuster/v3/cli/cmd 
 go run gobuster
 ```    
-   <details>
+
 
     
    <details>
   <summary><h3>Ubuntu:</h3></summary>
-
-   ```    
+    
+```    
 Mais Informação embreve
-    ```    
+ ```    
+
+   <details>
+  <summary><h3>PentestBox:</h3></summary>
+    
+```    
+Mais Informação embreve
+ ```    
 
     
     
