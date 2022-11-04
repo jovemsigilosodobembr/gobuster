@@ -29,11 +29,6 @@ As opções padrão com códigos de status desabilitados são assim:
 
 ### Examples
 
-```text
-gobuster s3 -w bucket-names.txt
-```
-
-
 <details>
   <summary><h3>Termux:</h3></summary>
  
