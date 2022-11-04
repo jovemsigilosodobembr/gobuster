@@ -7,8 +7,6 @@ Gobuster é uma ferramenta usada para força bruta:
 - Nomes de hosts virtuais em servidores web de destino.
 - Abra buckets do Amazon S3
 
-# Manual
-
 ## Modos disponíveis
 
 - dir - o modo de força bruta de diretório clássico
@@ -18,13 +16,9 @@ Gobuster é uma ferramenta usada para força bruta:
 - vhost - modo de força bruta de host virtual (não é o mesmo que DNS!)
 - fuzz - algum fuzzing básico, substitui a palavra-chave `FUZZ`
 
-
-
-```text
-As opções padrão com códigos de status desabilitados são assim:
-```
- <summary><h3>continuação</h3></summary>
 <details>
+ <summary><h3>continuação</h3></summary>
+
 
 <details>
   <summary><h3>Termux:</h3></summary>
