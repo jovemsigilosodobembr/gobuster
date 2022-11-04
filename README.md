@@ -50,6 +50,15 @@ go mod init gobuster
 go get github.com/OJ/gobuster/v3/cli/cmd 
 go run gobuster
 ```    
+   
+   <details>
+  <summary><h3>Ubuntu:</h3></summary>
+
+   ```    
+Mais Informação embreve
+    ```    
+
+    
     
     
 
