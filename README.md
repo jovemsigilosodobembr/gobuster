@@ -24,7 +24,7 @@ Gobuster é uma ferramenta usada para força bruta:
 As opções padrão com códigos de status desabilitados são assim:
 ```
  <summary><h3>continuação</h3></summary>
-
+<details>
 
 <details>
   <summary><h3>Termux:</h3></summary>
